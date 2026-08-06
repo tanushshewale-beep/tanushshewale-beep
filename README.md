@@ -46,9 +46,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanushshewale-beep&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanushshewale-beep&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushshewale-beep&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanushshewale-beep&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -64,8 +64,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanushshewale-beep&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tanushshewale-beep&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
+
+
 
 ---
 
